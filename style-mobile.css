@@ -1,0 +1,213 @@
+html {
+        margin: 0px; padding: 0px;
+     }
+
+body {
+        margin: 0px; padding: 0px;
+        font-family:Arial, Helvetica, sans-serif;
+        background:gray;
+        color:#fff;
+        background:#E4E7E1;
+     }
+
+.wrap {
+        position: relative;
+        width:auto;
+        max-width:640px;
+        margin:0 auto;
+        padding: 0px;
+        }
+
+a,a:link,a:visited,a:hover,a:active {text-decoration:none;}
+
+.PageLogin{
+           width:auto;
+          Background: #B9CEDE;
+           border: 1px solid #DFDDDD;
+           margin:10px  5px 27px 5px;
+          border-radius: 0 0 0 0.4em;
+         -o-border-radius: 0 0 0 0.4em;
+         -moz-border-radius: 0 0 0 0.4em;
+         -webkit-border-radius: 0 0 0 0.4em;
+           background-image: -ms-linear-gradient(bottom right, #FFFFFF 0%, #B9CEDE 100%);
+           background-image: -moz-linear-gradient(bottom right, #FFFFFF 0%, #B9CEDE 100%);
+           background-image: -o-linear-gradient(bottom right, #FFFFFF 0%, #B9CEDE 100%);
+           background-image: -webkit-gradient(linear, right bottom, left top, color-stop(0, #FFFFFF), color-stop(1, #B9CEDE));
+           background-image: -webkit-linear-gradient(bottom right, #FFFFFF 0%, #B9CEDE 100%);
+           background-image: linear-gradient(to top left, #FFFFFF 0%, #B9CEDE 100%);
+
+          }
+
+.PageTitle{
+           width:auto;
+           Background: #B9CEDE;
+           border: 1px solid #DFDDDD;
+           border-top: 0px;
+           margin:0px  5px 27px 5px;
+           color: rgb(102,102,102);
+           border-radius: 0 0 0.4em 0.4em;
+          -o-border-radius: 0 0 0.4em 0.4em;
+          -moz-border-radius: 0 0 0.4em 0.4em;
+          -webkit-border-radius: 0 0 0.4em 0.4em;
+           background-image: -ms-linear-gradient(bottom right, #FFFFFF 0%, #B9CEDE 100%);
+           background-image: -moz-linear-gradient(bottom right, #FFFFFF 0%, #B9CEDE 100%);
+           background-image: -o-linear-gradient(bottom right, #FFFFFF 0%, #B9CEDE 100%);
+           background-image: -webkit-gradient(linear, right bottom, left top, color-stop(0, #FFFFFF), color-stop(1, #B9CEDE));
+           background-image: -webkit-linear-gradient(bottom right, #FFFFFF 0%, #B9CEDE 100%);
+           background-image: linear-gradient(to top left, #FFFFFF 0%, #B9CEDE 100%);
+
+          }
+
+.logo{
+      padding:10px 0;
+     }
+
+.logo img{display:block;margin:0 auto;max-width:100%;}
+
+.logocaption{text-align:center;font-size:1.0em;font-weight:bold;padding-bottom:10px;}
+
+.PageLoginHeader{
+
+               margin-top:-17px;
+               margin-left:-1px;
+               width:250px;
+               min-width:80%;
+               height:34px;
+               padding-left: 15px;
+               line-height: 40px;
+               background:#134D86;
+               font-weight : bold;
+               text-align: left;
+               font-size:0.9em;
+               line-height:34px;
+               border:#134D86;
+               border-radius: 0.4em 0 0 0;
+              -o-border-radius: 0.4em 0 0 0;
+              -moz-border-radius: 0.4em 0 0 0;
+              -webkit-border-radius: 0.4em 0 0 0;
+           }
+
+.PageFreeLinks{min-height:250px;}
+
+.PageLoginLogo {
+                background-repeat: no-repeat;
+                background-position: 20px center;
+                margin: 5px 0px 8px 10px;
+                padding: 0 3px 10px 0;
+
+               }
+.PageLoginLogoUser {background-image:url('img/user.png')}
+.PageLoginLogoCode {background-image:url('img/code.png')}
+.PageLoginLogoPayPal   {background-image:url('img/paypal.gif')}
+.PageLinksLogo {background-image:url('img/free_links.png')}
+.PageLoginLogoFreeWifi {background-image:url('img/freewifi.png')} 
+.PageLoginLogoFacebook {background-image:url('img/facebook-logo.png')} 
+
+.PageLoginLogoText {padding-left:68px;padding-top:10px;font-size:0.9em;color:rgb(102,102,102);font-weight : bold;}
+
+.NewPage {
+           width:auto;
+            Background: #B9CEDE;
+           border: 1px solid #DFDDDD;
+           margin:-17px  5px 27px 5px;
+           border-radius: 0.4em 0 0 0.4em;
+          -o-border-radius: 0.4em 0 0 0.4em;
+          -moz-border-radius: 0.4em 0 0 0.4em;
+          -webkit-border-radius: 0.4em 0 0 0.4em;
+           background-image: -ms-linear-gradient(bottom right, #FFFFFF 0%, #B9CEDE 100%);
+           background-image: -moz-linear-gradient(bottom right, #FFFFFF 0%, #B9CEDE 100%);
+           background-image: -o-linear-gradient(bottom right, #FFFFFF 0%, #B9CEDE 100%);
+           background-image: -webkit-gradient(linear, right bottom, left top, color-stop(0, #FFFFFF), color-stop(1, #B9CEDE));
+           background-image: -webkit-linear-gradient(bottom right, #FFFFFF 0%, #B9CEDE 100%);
+           background-image: linear-gradient(to top left, #FFFFFF 0%, #B9CEDE 100%);
+
+           }
+
+.MessagePageLogo {
+                  background-repeat: no-repeat;
+                  background-position: 20px center;
+                  padding: 0 3px 10px 0;
+                 }
+.MessagePageText {padding-left:68px;padding-top:10px;font-size:0.9em;font-weight : bold;}
+
+.WarningPage {background-image:url('img/warning_small.jpg');color:red }
+.ErrorPage {background-image:url('img/error_small.jpg');color:red }
+.InfoPage {background-image:url('img/info_small.jpg');color:rgb(102,102,102)}
+
+.NewPage a,
+.NewPage a:link,
+.NewPage a:visited,
+.NewPage a:hover,
+.NewPage a:active {
+        color: #448da6;text-decoration:none;outline-style: none;
+                 }
+
+.Footer {
+      font-weight : bold;
+      padding-top:5px;
+      padding-bottom:5px;
+      text-align: center;
+      font-size:0.9em;
+      color:rgb(102,102,102);
+       }
+
+button,input[type="button"],input[type="reset"],input[type="submit"]{cursor:pointer;}
+button[disabled],input[disabled]{cursor:default;}
+label{display:block;}
+
+form label{
+        font-size:0.9em;
+        color:rgb(51,51,51);
+        font-weight : bold;
+        margin-bottom: 0.4em;
+       }
+
+form div{
+        margin:0 0 0.8em 0;
+        }
+form textarea{
+        height:80px;
+             }
+form label span.red{color:#ff0000;}
+button {
+         outline-style:none;
+       }
+
+form input[type=submit],
+form input[type=submit]:active,
+button,
+button:active{
+        background:#234A8B;
+        background-image: -ms-linear-gradient(top, #4FA2E8 0%, #234A8B 100%);
+        background-image: -moz-linear-gradient(top, #4FA2E8 0%, #234A8B 100%);
+        background-image: -o-linear-gradient(top, #4FA2E8 0%, #234A8B 100%);
+        background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #4FA2E8), color-stop(1, #234A8B));
+        background-image: -webkit-linear-gradient(top, #4FA2E8 0%, #234A8B 100%);
+        background-image: linear-gradient(to bottom, #4FA2E8 0%, #234A8B 100%);
+         padding: 0.55em 1em 0.55em;
+         width: auto;
+         text-align: center;
+         color: #ffffff;
+         line-height: 1em;
+         font-size: 1.4rem;
+         font-weight: bold;
+         border-radius: 0.2em;
+         border: #4FA2E8;
+         -o-border-radius: 0.2em;
+         -moz-border-radius: 0.2em;
+         -webkit-border-radius: 0.2em;
+
+      }
+
+form input[type=submit]:hover,
+button:hover {
+    background:#214361;
+     background-image: -ms-linear-gradient(top, #4FA2E8 0%, #214361 100%);
+     background-image: -moz-linear-gradient(top, #4FA2E8 0%, #214361 100%);
+     background-image: -o-linear-gradient(top, #4FA2E8 0%, #214361 100%);
+     background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #4FA2E8), color-stop(1, #214361));
+     background-image: -webkit-linear-gradient(top, #4FA2E8 0%, #214361 100%);
+     background-image: linear-gradient(to bottom, #4FA2E8 0%, #214361 100%);
+
+
+        }
